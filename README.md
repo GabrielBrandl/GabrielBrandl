@@ -3,7 +3,7 @@
 
 **`Desenvolvedor de Software`**
 
-Me chamo Gabriel Paiva Brandl Barbosa, tenho 20 anos e sou natural do Amazonas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio.
+Me chamo Gabriel Paiva Brandl Barbosa, tenho 20 anos e sou natural do Amazonas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Atuo na área de Desenvolvimento de software e com Análise de Dados
 
 
 ---
