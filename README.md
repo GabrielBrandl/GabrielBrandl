@@ -1,4 +1,4 @@
-## 👩🏻‍💻 GabrielBrandl
+## 👩🏻‍💻 Gabriel Brandl
 
 
 **`Desenvolvedor de Software`**
