@@ -3,8 +3,8 @@
 
 **`Desenvolvedor de Software`**
 
-Me chamo Gabriel Paiva Brandl Brandl, tenho 22 anos e sou natural do Amazonas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Atuo na área de Desenvolvimento de software e Desenvolvimento Web me especializando em Dev FullStack
-
+Me chamo Gabriel Paiva Brandl Brandl, tenho 22 anos e sou natural do Amazonas. Atualmente, formado em Análise e Desenvolvimento de Sistemas na Estácio e atualmente cursando Engenharia de Software. Desenvolvedor com sólida experiência na construção de sites e aplicações web, atuando tanto no Front-end quanto no Back-end. Especialista na implementação de softwares e na otimização de sistemas. Possuo visão analítica desenvolvida através da atuação em times de dados, o que
+me permite escrever códigos mais eficientes e orientados a resultados mensuráveis. Focado em entregar soluções robustas e escaláveis
 
 ---
 
